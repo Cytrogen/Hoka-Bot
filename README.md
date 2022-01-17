@@ -5,7 +5,7 @@
 <div align="center">
     <h3>一个基于 Nonebot2 和 Go-Cqhttp 的私用QQ群聊机器人</h3>
     <br>
-    <img width="160" src="docs/QQ图片20211207221604.jpg" alt="logo">
+    <img width="160" src="docs/HOKA现头像.jpg" alt="logo">
     </br>
     <div>任何BUG和反馈都可以写在ISSUE里</div>
     <br>
