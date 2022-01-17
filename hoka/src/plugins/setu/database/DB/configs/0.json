@@ -1,0 +1,37 @@
+{
+  "setting": {
+    "setu": true,
+    "api": {
+      "lolicon": true,
+      "yuban": true,
+      "pixiv": true
+    },
+    "r18": true,
+    "quality": "large",
+    "at": false,
+    "sentRefreshTime": 600,
+    "singleMaximum": 10,
+    "revokeTime": 0
+  },
+  "setuInfoShow": {
+    "title": true,
+    "picID": false,
+    "picWebUrl": true,
+    "page": true,
+    "author": true,
+    "authorID": false,
+    "authorWebUrl": true,
+    "picOriginalUrl": true,
+    "tags": true
+  },
+  "replyMsg": {
+    "inputError": "数量需要是阿拉伯数字",
+    "notFound": "你的xp怪异到hoka甚至找不到……",
+    "tooMuch": "爪巴，这么多你冲死吧",
+    "tooSmall": "¿负数张色图?",
+    "closed": "setu功能关闭了，你今儿没法冲了",
+    "noR18": "r18被关闭了，你看喜羊羊去吧",
+    "insufficient": "关于{tag}的图片只有{num}张",
+    "freqLimit": "本群每{time}s能发{limitCount}张色图，已发{callDone}张，离刷新还有{r_time}s"
+  }
+}
