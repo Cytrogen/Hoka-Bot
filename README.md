@@ -20,7 +20,7 @@
 
 ## 使用
 
-配[这个文档](https://v2.nonebot.dev/)和[这个文档](https://docs.go-cqhttp.org/)食用更佳！
+自己部署时，配[这个文档](https://v2.nonebot.dev/)和[这个文档](https://docs.go-cqhttp.org/)食用更佳！
 
 ### 下载最新版本的[go-cqhttp](https://github.com/Mrs4s/go-cqhttp/releases)
 
