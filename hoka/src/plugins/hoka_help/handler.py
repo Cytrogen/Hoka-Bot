@@ -164,6 +164,7 @@ rss = on_command('RSS帮助', aliases={'rss帮助'}, priority=2)
 @rss.handle()
 async def handle_first_receive(bot: Bot, event: Event, state: T_State):
     await rss.finish('''RSS订阅插件 指令：
+RSS地址：https://docs.rsshub.app/
 [add] <订阅名> <RSS地址> -> 添加订阅
 [delete] <订阅名> -> 删除订阅
 [show_all/所有订阅] <关键词>
