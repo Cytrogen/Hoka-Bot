@@ -33,7 +33,7 @@
 start cmd /K go-cqhttp.exe
 ```
 
-### 编辑[config.yaml](hokabot/config.yaml)
+### 编辑[config.yaml](hokabot/config.yml)
 
 需要编辑的地方有：
 
