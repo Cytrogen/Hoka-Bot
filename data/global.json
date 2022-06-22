@@ -1,0 +1,13 @@
+{
+    "RAM": {
+        "cqhttp": {
+            "group": {},
+            "private": {}
+        },
+        "module_name": "RAM",
+        "onebot_v11": {
+            "group": {},
+            "private": {}
+        }
+    }
+}
