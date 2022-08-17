@@ -30,7 +30,7 @@
 
 自己部署时，配[这个文档](https://v2.nonebot.dev/)食用更佳！
 
-详细的Hoka-bot部署文档：还没写
+[详细的Hoka-bot部署文档](https://cytrogen.icu/2022/06/30/hoka-bot/hoka-bot%E9%83%A8%E7%BD%B2%E6%95%99%E7%A8%8B/)
 
 ## 使用
 
@@ -41,7 +41,7 @@
 
 > 功能列表、简介可使用 `hoka help list` 来调取，并以其为标准。
 
-- [功能列表](docs/functions.md)
+- [功能列表](https://cytrogen.icu/2022/08/17/hoka-bot/hoka-bot%E5%8A%9F%E8%83%BD%E5%88%97%E8%A1%A8/#%E5%8A%9F%E8%83%BD%E5%88%97%E8%A1%A8)
 
 ---
 
