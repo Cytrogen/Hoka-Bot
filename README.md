@@ -30,7 +30,7 @@
 
 自己部署时，配[这个文档](https://v2.nonebot.dev/)食用更佳！
 
-[详细的Hoka-bot部署文档](https://cytrogen.icu/2022/06/30/hoka-bot/hoka-bot%E9%83%A8%E7%BD%B2%E6%95%99%E7%A8%8B/)
+详细的Hoka-bot部署文档：还没写
 
 ## 使用
 
